@@ -1,0 +1,19 @@
+{
+  "name": "bizda_elon_backend",
+  "version": "1.0.0",
+  "description": "Bu kodlar bizda_elon.uz saytining backendi",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Bahromjon",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.14",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.15"
+  }
+}
